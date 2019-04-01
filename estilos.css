@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Special Elite', cursive, Arial;
+}
+
+body{
+	background-color: grey;
+}
+
+header h1{
+	margin: 25px;
+	font-weight: bold;
+}
+
+header li{
+	display: inline-grid;	
+}
+
+header input{
+	padding: 20px;
+	font-size: 25px;
+	background-color: mediumPurple;
+}
+
+article{
+	padding-top: 20px;
+	min-height: 400px;
+}
+
+h2{
+	margin: 20px;
+}
+
+table {
+	border-collapse: collapse;
+	margin: auto;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+td {
+	border: 2px solid black;
+	padding: 5px;	
+}
+
+#submit{
+	font-size: 30px;
+	padding: 10px;
+	margin: 15px;
+	background-color: mediumPurple;
+}
+
+.coloreada{
+	font-weight: bold;
+	background-color: mediumPurple;
+}
+
+.introducir{
+	font-size: 20px;
+	background-color: #BCA9F5;
+}
+
+a{	
+	font-size: 30px;
+}
+
+footer{
+	margin-top: 20px;
+}
+
+
